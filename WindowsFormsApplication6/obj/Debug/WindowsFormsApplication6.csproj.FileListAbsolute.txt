@@ -1,0 +1,130 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Desktop\NCTU\大一下\物件導向\Project\Visual Stduio\WindowsFormsApplicationVer01\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApplication5\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+F:\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+F:\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+F:\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\03-吳彬睿\WindowsFormsApplication7\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApplication8\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication9\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\物件導向專題\c#\交大物件導向專題\WindowsFormsApplication10\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\物件導向專題\大一下 oop 專題final版\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\物件導向專題\大一下 oop 專題final版\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\物件導向專題\大一下 oop 專題final版\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojAssemblyReference.cache
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb

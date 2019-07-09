@@ -1,0 +1,9 @@
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.GenerateResource.cache
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+D:\Github\OOP_Planes_fighting_game_2D\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
